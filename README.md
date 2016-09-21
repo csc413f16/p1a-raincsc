@@ -1,8 +1,12 @@
-Name:
+Name: Rainier Hui
 
-Compilation and Run Successful:
+Compilation and Run Successful: Success
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Success
+
+System Info: Windows 10 x64
+Android Studio 2.2
+Galaxy Nexus API 23 x86
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
